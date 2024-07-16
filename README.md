@@ -1,4 +1,1 @@
-This application is a simple study guide I used for a class in college. 
-You can manually input questions and their answers or play the original study guide I used for an Earth Science course. 
-The application will prompt you to type in the answer to a question which will tell you if you were correct or not. 
-The program is case insensitive and will keep score as go.  
+The application is a basic study guide designed for a college class. Users can input questions and answers manually or use a pre-made study guide for an Earth Science course. It prompts users to type answers to questions and provides feedback on correctness. The program ignores case sensitivity and tracks the user's score throughout the session.
